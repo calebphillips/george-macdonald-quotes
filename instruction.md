@@ -48,4 +48,4 @@
   not only the first man in his profession, but the best man that ever
   was in the world; and to believe so of one's parent is a stronger
   aid to righteousness than all things else whatever,
-* that the only way to know what is true is to do what is true."
+* that the only way to know what is true is to do what is true.
