@@ -12,20 +12,8 @@
   questions in the minds of my children, in place of overwhelming
   their digestions with what could be of no instruction or edification
   without the foregoing appetite
-* the father, unlike most prudent men, did not think it necessary to
-  warn his son against too sure an expectation, and so prepare him for
-  the consequence of a possible mistake; he did not imagine that
-  disappointment, like the small-pox, requires the vaccination of
-  apprehension--that a man, lest he should be more miserable
-  afterwards, must make himself miserable now.
 * To him that obeys well, the truth comes easy; to him who does not
   obey, it comes not, or comes in forms of fear and dismay.
-* When a man reasons for victory and not for the truth in the other
-  soul, he is sure of just one ally, the same that Faust had in
-  fighting Gretchen's brother--that is, the Devil.
-* Nothing, I repeat, so much as humble ministration to your
-    neighbours, will help you to that perfect love of God which
-    casteth out fear;
 * For the sooner the children are brought under right influences--I do
   not mean a great deal of religious speech, but the right influences
   of truth and honesty, and an evident regard to what God wants of
@@ -40,14 +28,6 @@
 * People that talk about good things without doing them are left out.
   You are not master of addition until your addition is to be depended
   upon
-* spending their strength in avoiding precipices and getting out of
-  bogs, mourning and sighing over their sins instead of leaving them
-  behind and fleeing to the Father
-* It is one of the poorest of human weaknesses that a man should be
-  ashamed of saying he has done wrong, instead of so ashamed of having
-  done wrong that he cannot rest till he has said so; for the shame
-  cleaves fast until the confession removes it
-* He does not care for the praise that comes before obedience!
 * the best a father can do, is to enable his son to earn his
   livelihood in the exercise of a genial and righteous labor
 * A little wonder is worth tons of knowledge.
