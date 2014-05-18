@@ -1303,6 +1303,81 @@ LOCATION: 38935369 - 38935514
 Our Lord never mentions poverty as one of the obstructions to his kingdom, neither has it ever proved such; riches, cares and desires he does mention.
 LOCATION: 38943864 - 38944014
 
+"I have sometimes found the very things I dreaded most serve me best. I don't mean because I got used to them, or because they did me good. I mean they furthered what I thought they would ruin."
+LOCATION: 39191271 - 39191475
+
+Your heart's deepest desire must be the will of God, for he cannot have made you so that your heart should run counter to his will; let him but have his own way with you, and your desire he will give you. To that goes his path. He delights in his children; so soon as they can be indulged without ruin, he will heap upon them their desires; they are his too."
+LOCATION: 39219241 - 39219605
+
+They were greatly proud of their father one and all believing him not only the first man in his profession, but the best man that ever was in the world; and to believe so of one's parent is a stronger aid to righteousness than all things else whatever,
+LOCATION: 39235608 - 39235860
+
+In their eyes power was a grander thing than love, though it is nowhere said in the Book that God is omnipotence. Such, because they are told that he is omnipotent, call him Omnipotence; when told that he is Love, do not care to argue that he must then be loving?
+LOCATION: 39247473 - 39247736
+
+But as to doing what he wills with a word--see what it cost him to redeem the world! He did not find that easy, or to be done in a moment without pain or toil.
+LOCATION: 39247737 - 39247896
+
+Yet thoroughly and altogether and triumphantly will he overcome it; and that not by crushing it underfoot--any god of man's idea could do that!--but by conquest of heart over heart, of life in life, of life over death. Nothing shall be too hard for the God that fears not pain, but will deliver and make true and blessed at his own severest cost.
+LOCATION: 39248124 - 39248470
+
+The wonder to me is that any such as do not hope in a Power loving to perfection, should escape moroseness. Under the poisonous influences of anxiety, a loving man may become unkind, even cruel to the very persons for whose sake he is anxious.
+LOCATION: 39249220 - 39249463
+
+Yet evil thing as anxiety is, it were a more evil thing to be delivered from it by anything but the faith of the Son of God--that is faith in his Father and our Father; it would be but another and worse, because more comfortable form of the same slavery.
+LOCATION: 39249654 - 39249908
+
+It is always by single individual communication that the truth has passed in power from soul to soul. Love alone, and the obligation thereto between the members of Christ's body, is the one eternal unbreakable bond.
+LOCATION: 39304277 - 39304492
+
+until a man has begun to throw off the weights that hold him down, it is a wrong done him to attempt to lighten those weights.
+LOCATION: 39396588 - 39396714
+
+Except what they heard at church, hardly a special religious phrase ever entered their ears. Those of the New Testament were avoided from reverence, lest they should grow common and fail of their purpose when the children read them for themselves.
+LOCATION: 39437703 - 39437950
+
+The true teaching for children is persons, history and doctrine in the old sense of the New Testament--instruction in righteousness, that is--not human theory about divine facts.
+LOCATION: 39438512 - 39438690
+
+Some people when they are angry, speak as if they were angry with the person to whom they are in fact looking for comfort. When in trouble few of us are masters enough of ourselves, because few of us are children enough of our Father in heaven, to behave like gentlemen--after the fashion of "the first stock father of gentleness." But Hester understood her mother and did not resent.
+LOCATION: 39489195 - 39489658
+
+he made us out of himself. He who is parted from God has no original nothingness with which to take refuge. He is a live discord, an anti-truth.
+LOCATION: 39510469 - 39510613
+
+Was it not even better to do wrong, she asked herself, than to think it a very grand thing not to do it?
+LOCATION: 39516059 - 39516163
+
+There is nothing shows more how hard it has been for God to redeem the world than the opinions still uttered concerning him and his so-called plans by many who love him and try to obey him: a man may be in possession of the most precious jewels, and yet know so little about them that his description of them would never induce a jeweller to purchase them, but on the contrary make him regard the man as a fool, deceived with bits of coloured glass for rubies and sapphires.
+LOCATION: 39523729 - 39524301
+
+"that the only way to know what is true is to do what is true."
+LOCATION: 39530295 - 39530368
+
+Her fearlessness came from no fancied absence of danger, but from an utter disbelief in chance.
+LOCATION: 39581448 - 39581543
+
+She would be more than ever the sister and helper of her own--cling faster than ever to the skirts of the Lord's garment, that the virtue going out of him might flow through her to them! She would be like Christ, a gulf into which wrong should flow and vanish--a sun radiating an uncompromising love!
+LOCATION: 39635402 - 39635702
+
+he is the demander and enabler of love.
+LOCATION: 39655962 - 39656001
+
+The modern representatives of Eliphaz, Bildad, and Zophar would comfort us with the assurance that all such depression has physical causes: right or wrong, what does their comfort profit! Consolation in being told that we are slaves!
+LOCATION: 39657403 - 39657705
+
+the soul ought to be supreme over the body and its laws; that there must be a faith which conquers the body with all its tyrants; and that no soul is right until it has that faith--until it is in closest, most immediate understanding with its own unchangeable root, God himself.
+LOCATION: 39657827 - 39658105
+
+Woe for the wife whose husband has no regard to her deepest desires, her highest aspirations!--who loves her so that he would be the god of her idolatry, not the friend and helper of her heart, soul, and mind!
+LOCATION: 39714579 - 39714788
+
+The man who would go to the dogs for lack of the woman he fancies, will go to the dogs when he has her--may possibly drag her to the dogs with him.
+LOCATION: 39747544 - 39747691
+
+"Ah!" he returned, "the one incomprehensible thing is ignorance! To understand why another does not understand seems to me beyond the power of humanity.
+LOCATION: 39808774 - 39809010
+
 She had been doing her duty, and had in consequence begun again to think herself Somebody. However strange it may well seem, to do one's duty will make any one
 LOCATION: 43002586 - 43002745
 
