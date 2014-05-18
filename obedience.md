@@ -13,6 +13,19 @@
 * He does not care for the praise that comes before obedience!
 * The whole question is how much we understand, and understanding,
   obey him.
+* "But what is the right tune of a body's life, father?" "The will of
+  God, my boy." "But how is a person to know that, father?" "By trying
+  to do what he knows of it already. Everybody has a different kind of
+  tune in his life, and no one can find out another's tune for him,
+  though he may help him to find it for himself." "But aren't we to
+  read the Bible, father?" "Yes, if it's in order to obey it. To read
+  the Bible thinking to please God by the mere reading of it, is to
+  think like a heathen." "And aren't we to say our prayers, father?"
+  "We are to ask God for what we want. If we don't want a thing, we
+  are only
+* God gives us all our business, and the business which is common to humanity is more peculiarly God's business than that which is one man's and not another's--because it lies nearer the root, and is essential. It does not matter whether a man is a farmer or a physician, but it greatly matters whether he is a good son, a good husband, and so on.
+
+
 
 * When we cease listening to the cries of self-seeking and self-care,
   then the voice that was there all the time enters into our ears. It
