@@ -42,4 +42,10 @@
   of the world; that is, lessens, if by the smallest hair's-breadth,
   the distance between it and God.
 * "But what is the right tune of a body's life, father?" "The will of God, my boy." "But how is a person to know that, father?" "By trying to do what he knows of it already. Everybody has a different kind of tune in his life, and no one can find out another's tune for him, though he may help him to find it for himself." "But aren't we to read the Bible, father?" "Yes, if it's in order to obey it. To read the Bible thinking to please God by the mere reading of it, is to think like a heathen." "And aren't we to say our prayers, father?" "We are to ask God for what we want. If we don't want a thing, we are only
-*
+* Except what they heard at church, hardly a special religious phrase ever entered their ears. Those of the New Testament were avoided from reverence, lest they should grow common and fail of their purpose when the children read them for themselves.
+* The true teaching for children is persons, history and doctrine in the old sense of the New Testament--instruction in righteousness, that is--not human theory about divine facts.
+* They were greatly proud of their father one and all believing him
+  not only the first man in his profession, but the best man that ever
+  was in the world; and to believe so of one's parent is a stronger
+  aid to righteousness than all things else whatever,
+* that the only way to know what is true is to do what is true."
