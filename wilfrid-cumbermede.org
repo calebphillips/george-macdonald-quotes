@@ -84,15 +84,11 @@ He asserts himself, only, solely, altogether, in an infinite sacrifice of devoti
 #+END_QUOTE
 
 #+BEGIN_QUOTE
-In the deepest agony I have never refused the consolations of Nature or of Truth. I have never knowingly accepted any founded in falsehood, in forgetfulness, or in distraction.
-#+END_QUOTE
-
-#+BEGIN_QUOTE
-Let such as have no hope in God drink of what Lethe they can find; to me it is a river of Hell and altogether abominable.
-#+END_QUOTE
-
-#+BEGIN_QUOTE
-I could not be content even to forget my sins. There can be but one deliverance from them, namely, that God and they should come together in my soul. In his presence I shall serenely face them. Without him I dare not think of them. With God a man can confront anything; without God, he is but the withered straw which the sickle of the reaper has left standing on a wintry field. But to forget them would be to cease and begin anew, which to one aware of his immortality is a horror.
+In the deepest agony I have never refused the consolations of Nature
+or of Truth. I have never knowingly accepted any founded in falsehood,
+in forgetfulness, or in distraction.  Let such as have no hope in God
+drink of what Lethe they can find; to me it is a river of Hell and
+altogether abominable.  I could not be content even to forget my sins. There can be but one deliverance from them, namely, that God and they should come together in my soul. In his presence I shall serenely face them. Without him I dare not think of them. With God a man can confront anything; without God, he is but the withered straw which the sickle of the reaper has left standing on a wintry field. But to forget them would be to cease and begin anew, which to one aware of his immortality is a horror.
 #+END_QUOTE
 
 #+BEGIN_QUOTE
