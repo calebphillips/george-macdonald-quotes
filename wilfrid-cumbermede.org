@@ -4,10 +4,6 @@ It is a terrible thing when the father is the cloud, and not the sun, of his chi
 #+END_QUOTE
 
 #+BEGIN_QUOTE
-it is often incapacity for defending the faith they love which turns men into persecutors.
-#+END_QUOTE
-
-#+BEGIN_QUOTE
 'When you want anything, ask for it, Willie; and if it is worth your having, you will have it. But don't fancy you are doing God any service by praying to him. He likes you to pray to him because he loves you, and wants you to love him. And whatever you do, don't go saying a lot of words you don't mean. If you think you ought to pray, say your Lord's Prayer, and have done with it.'
 #+END_QUOTE
 
@@ -16,11 +12,45 @@ difference between us—that he had been bored with religion and I had not. In o
 #+END_QUOTE
 
 #+BEGIN_QUOTE
-But there is a sense of personal purity belonging to the man as well as to the woman; and although I dare not say that in the most refined of masculine natures it asserts itself with the awful majesty with which it makes its presence known in the heart of a woman, the man in whom it speaks with most authority is to be found amongst the worthiest;
+The upper hand of influence I had over him I attribute to the greater freedom of my training, and the enlarged ideas which had led my uncle to avoid enthralling me to his notions.
 #+END_QUOTE
 
 #+BEGIN_QUOTE
-The upper hand of influence I had over him I attribute to the greater freedom of my training, and the enlarged ideas which had led my uncle to avoid enthralling me to his notions.
+You could suppose yourself utterly convinced of a good God long before your ideas of goodness were so correct as to render you incapable of attributing anything wrong to that God.
+#+END_QUOTE
+
+
+#+BEGIN_QUOTE
+We claim immortality; we cringe and cower with the fear that immortality may not be the destiny of man; and yet we—I—do things unworthy not merely of immortality, but unworthy of the butterfly existence of a single day in such a world as this sometimes seems to be.
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+it is not immortality the human heart cries out after, but that immortal eternal thought whose life is its life, whose wisdom is its wisdom, whose ways and whose thoughts shall—must one day—become its ways and its thoughts. Dissociate immortality from the living Immortality, and it is not a thing to be desired—not a thing that can on those terms, or even on the fancy of those terms, be desired.
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+her religious theories had ever been eating away and absorbing her life, so preventing her religion from interpenetrating and glorifying it;
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+I saw, shadowed out in the absolute devotion of Jesus to men, that the very life of God by which we live is an everlasting eternal giving of himself away. He asserts himself, only, solely, altogether, in an infinite sacrifice of devotion. So must we live; the child must be as the father; live he cannot on any other plan, struggle as he may. The father requires of him nothing that he is not or does not himself, who is the one prime unconditioned sacrificer and sacrifice.
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+In the deepest agony I have never refused the consolations of Nature
+or of Truth. I have never knowingly accepted any founded in falsehood,
+in forgetfulness, or in distraction.  Let such as have no hope in God
+drink of what Lethe they can find; to me it is a river of Hell and
+altogether abominable.  I could not be content even to forget my sins. There can be but one deliverance from them, namely, that God and they should come together in my soul. In his presence I shall serenely face them. Without him I dare not think of them. With God a man can confront anything; without God, he is but the withered straw which the sickle of the reaper has left standing on a wintry field. But to forget them would be to cease and begin anew, which to one aware of his immortality is a horror.
+#+END_QUOTE
+
+
+#+BEGIN_QUOTE
+it is often incapacity for defending the faith they love which turns men into persecutors.
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+But there is a sense of personal purity belonging to the man as well as to the woman; and although I dare not say that in the most refined of masculine natures it asserts itself with the awful majesty with which it makes its presence known in the heart of a woman, the man in whom it speaks with most authority is to be found amongst the worthiest;
 #+END_QUOTE
 
 #+BEGIN_QUOTE
@@ -28,19 +58,12 @@ but it would have been quite inconsistent with his usual grand treatment of me t
 #+END_QUOTE
 
 #+BEGIN_QUOTE
-if there were a hereafter for us, we should know positively nothing concerning it; that not a whisper should cross the invisible line; that the something which had looked from its windows so lovingly should have in a moment withdrawn, by some back-way unknown either to itself or us, into a region of which all we can tell is that thence no prayers and no tears will entice it to lift for an instant again the fallen curtain, and look out once more. Why should not God, I thought, if a God there be, permit one single return to each, that so the friends left behind in the dark might be sure that death was not the end,
+...thinking of many things—most of all, how strange it was that, if there were a hereafter for us, we should know positively nothing concerning it; that not a whisper should cross the invisible line; that the something which had looked from its windows so lovingly should have in a moment withdrawn, by some back-way unknown either to itself or us, into a region of which all we can tell is that thence no prayers and no tears will entice it to lift for an instant again the fallen curtain, and look out once more. Why should not God, I thought, if a God there be, permit one single return to each, that so the friends left behind in the dark might be sure that death was not the end,
 #+END_QUOTE
 
-#+BEGIN_QUOTE
-You could suppose yourself utterly convinced of a good God long before your ideas of goodness were so correct as to render you incapable of attributing anything wrong to that God.
-#+END_QUOTE
 
 #+BEGIN_QUOTE
 'In other words—you lead yourself inevitably to a God manifest in nature—not as a powerful being—that is a theme absolutely without interest to me—but as possessed in himself of the original pre-existent beauty, the counterpart of which in us we call art, and who has fashioned us so that we must fall down and worship the image of himself which he has set up.'
-#+END_QUOTE
-
-#+BEGIN_QUOTE
-We claim immortality; we cringe and cower with the fear that immortality may not be the destiny of man; and yet we—I—do things unworthy not merely of immortality, but unworthy of the butterfly existence of a single day in such a world as this sometimes seems to be.
 #+END_QUOTE
 
 #+BEGIN_QUOTE
@@ -60,35 +83,11 @@ The attempt of a lover to move, by the presentation of his own suffering, the he
 #+END_QUOTE
 
 #+BEGIN_QUOTE
-it is not immortality the human heart cries out after, but that immortal eternal thought whose life is its life, whose wisdom is its wisdom, whose ways and whose thoughts shall—must one day—become its ways and its thoughts. Dissociate immortality from the living Immortality, and it is not a thing to be desired—not a thing that can on those terms, or even on the fancy of those terms, be desired.
-#+END_QUOTE
-
-#+BEGIN_QUOTE
 My life seemed only a vermiculate one, a crawling about of half-thoughts-half-feelings through the corpse of a decaying existence.
 #+END_QUOTE
 
 #+BEGIN_QUOTE
 but in the husk that had overgrown my being it had found a cranny, and through that cranny, with the scent, Nature entered. I looked up to the blue sky, wept, and for the first time fell on my knees. 'O God!' I cried, and that was all.
-#+END_QUOTE
-
-#+BEGIN_QUOTE
-her religious theories had ever been eating away and absorbing her life, so preventing her religion from interpenetrating and glorifying it;
-#+END_QUOTE
-
-#+BEGIN_QUOTE
-I saw, shadowed out in the absolute devotion of Jesus to men, that the very life of God by which we live is an everlasting eternal giving of himself away.
-#+END_QUOTE
-
-#+BEGIN_QUOTE
-He asserts himself, only, solely, altogether, in an infinite sacrifice of devotion. So must we live; the child must be as the father; live he cannot on any other plan, struggle as he may.
-#+END_QUOTE
-
-#+BEGIN_QUOTE
-In the deepest agony I have never refused the consolations of Nature
-or of Truth. I have never knowingly accepted any founded in falsehood,
-in forgetfulness, or in distraction.  Let such as have no hope in God
-drink of what Lethe they can find; to me it is a river of Hell and
-altogether abominable.  I could not be content even to forget my sins. There can be but one deliverance from them, namely, that God and they should come together in my soul. In his presence I shall serenely face them. Without him I dare not think of them. With God a man can confront anything; without God, he is but the withered straw which the sickle of the reaper has left standing on a wintry field. But to forget them would be to cease and begin anew, which to one aware of his immortality is a horror.
 #+END_QUOTE
 
 #+BEGIN_QUOTE
