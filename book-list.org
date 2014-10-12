@@ -2,45 +2,45 @@
 |---------------------------------------------------------------------------+-------+-------------------------|
 | WHATS MINES MINE                                                          | x     | x                       |
 | SIR GIBBIE                                                                | x     | x                       |
-| DONAL GRANT                                                               | x     |                         |
-| CASTLE WARLOCK                                                            | x     |                         |
 | A ROUGH SHAKING                                                           | x     | x                       |
 | THERE AND BACK                                                            | x     | x                       |
-| AT THE BACK OF THE NORTH WIND                                             | x     |                         |
 | PAUL FABER, SURGEON                                                       | x     | x                       |
 | THE VICAR'S DAUGHTER                                                      | x     | x                       |
-| GUILD COURT, A LONDON STORY                                               |       |                         |
-| HOME AGAIN/THE ELECT LADY-a duplex                                        | x     |                         |
 | RANALD BANNERMAN'S BOYHOOD                                                | x     | x                       |
-| THE PRINCESS AND THE GOBLIN                                               | x     |                         |
-| THE PRINCESS AND CURDIE                                                   | x     |                         |
-| THE LIGHT PRINCESS AND OTHER FAIRY TALES                                  | x     |                         |
-| THE WISE WOMAN/GUTTA PERCHA WILLIE-a duplex                               | x     |                         |
-| PHANTASTES                                                                | x     |                         |
-| LILITH A-Original Manuscript / and LILITH 1896 Published Edition-a duplex | x     |                         |
 | ADELA CATHCART-Reprint of the First Edition                               | x     | x                       |
-| THE PORTENT AND OTHER STORIES                                             | x     |                         |
-| STEPHEN ARCHER AND OTHER TALES                                            |       |                         |
-| THE FLIGHT OF THE SHADOW                                                  |       |                         |
 | ANNALS OF A QUIET NEIGHBOURHOOD                                           | x     | x                       |
 | SEABOARD PARISH                                                           | x     | x                       |
 | MALCOLM                                                                   | x     | x                       |
 | MARQUIS OF LOSSIE                                                         | x     | x                       |
 | ALEC FORBES                                                               | x     | x                       |
-| RAMPOLLI                                                                  |       |                         |
-| HOPE OF THE GOSPEL/MIRACLES OF OUR LORD-a duplex                          |       |                         |
 | ROBERT FALCONER                                                           | x     | x                       |
-| DAVID ELGINBROD                                                           | x     |                         |
-| MARY MARSTON                                                              | x     |                         |
-| THE TRAGEDIE OF HAMLET                                                    |       |                         |
-| HEATHER AND SNOW/FAR ABOVE RUBIES                                         | x     |                         |
-| WEIGHED AND WANTING                                                       | x     |                         |
-| SALTED WITH FIRE                                                          | x     |                         |
-| A DISH OF ORTS                                                            |       |                         |
-| ENGLAND'S ANTIPHON                                                        |       |                         |
 | UNSPOKEN SERMONS-Series I, II, III in one volume                          |       | x                       |
 | WILFRID CUMBERMEDE                                                        | x     |                         |
 | THOMAS WINGFOLD                                                           | x     |                         |
+| DONAL GRANT                                                               | x     |                         |
+| CASTLE WARLOCK                                                            | x     |                         |
+| DAVID ELGINBROD                                                           | x     |                         |
+| MARY MARSTON                                                              | x     |                         |
+| WEIGHED AND WANTING                                                       | x     |                         |
+| SALTED WITH FIRE                                                          | x     |                         |
+| THE WISE WOMAN/GUTTA PERCHA WILLIE-a duplex                               | x     |                         |
+| HOME AGAIN/THE ELECT LADY-a duplex                                        | x     |                         |
+| HEATHER AND SNOW/FAR ABOVE RUBIES                                         | x     |                         |
+| THE PRINCESS AND THE GOBLIN                                               | x     |                         |
+| THE PRINCESS AND CURDIE                                                   | x     |                         |
+| THE LIGHT PRINCESS AND OTHER FAIRY TALES                                  | x     |                         |
+| PHANTASTES                                                                | x     |                         |
+| LILITH A-Original Manuscript / and LILITH 1896 Published Edition-a duplex | x     |                         |
+| AT THE BACK OF THE NORTH WIND                                             | x     |                         |
+| THE PORTENT AND OTHER STORIES                                             | x     |                         |
 | ST. GEORGE AND ST. MICHAEL                                                |       |                         |
 | POETICAL WORKS-Vol.1                                                      |       |                         |
 | POETICAL WORKS-Vol. 2                                                     |       |                         |
+| GUILD COURT, A LONDON STORY                                               |       |                         |
+| STEPHEN ARCHER AND OTHER TALES                                            |       |                         |
+| THE FLIGHT OF THE SHADOW                                                  |       |                         |
+| RAMPOLLI                                                                  |       |                         |
+| HOPE OF THE GOSPEL/MIRACLES OF OUR LORD-a duplex                          |       |                         |
+| THE TRAGEDIE OF HAMLET                                                    |       |                         |
+| A DISH OF ORTS                                                            |       |                         |
+| ENGLAND'S ANTIPHON                                                        |       |                         |
