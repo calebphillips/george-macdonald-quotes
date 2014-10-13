@@ -1,46 +1,46 @@
-| Title                                            | Read?    | Own Johannesen Edition? |
-|--------------------------------------------------+----------+-------------------------|
-| ROBERT FALCONER                                  | x        | x                       |
-| SIR GIBBIE                                       | x        | x                       |
-| MALCOLM                                          | x        | x                       |
-| MARQUIS OF LOSSIE                                | x        | x                       |
-| ANNALS OF A QUIET NEIGHBOURHOOD                  | x        | x                       |
-| SEABOARD PARISH                                  | x        | x                       |
-| THE VICAR'S DAUGHTER                             | x        | x                       |
-| WHATS MINES MINE                                 | x        | x                       |
-| ALEC FORBES                                      | x        | x                       |
-| A ROUGH SHAKING                                  | x        | x                       |
-| THERE AND BACK                                   | x        | x                       |
-| PAUL FABER, SURGEON                              | x        | x                       |
-| RANALD BANNERMAN'S BOYHOOD                       | x        | x                       |
-| ADELA CATHCART                                   | x        | x                       |
-| UNSPOKEN SERMONS-Series I, II, III in one volume | a little | x                       |
-| WILFRID CUMBERMEDE                               | x        |                         |
-| THOMAS WINGFOLD                                  | x        |                         |
-| DONAL GRANT                                      | x        |                         |
-| CASTLE WARLOCK                                   | x        |                         |
-| DAVID ELGINBROD                                  | x        |                         |
-| MARY MARSTON                                     | x        |                         |
-| WEIGHED AND WANTING                              | x        |                         |
-| SALTED WITH FIRE                                 | x        |                         |
-| THE WISE WOMAN/GUTTA PERCHA WILLIE-a duplex      | x        |                         |
-| HOME AGAIN/THE ELECT LADY-a duplex               | x        |                         |
-| HEATHER AND SNOW/FAR ABOVE RUBIES                | x        |                         |
-| THE PRINCESS AND THE GOBLIN                      | x        |                         |
-| THE PRINCESS AND CURDIE                          | x        |                         |
-| THE LIGHT PRINCESS AND OTHER FAIRY TALES         | x        |                         |
-| PHANTASTES                                       | x        |                         |
-| LILITH                                           | x        |                         |
-| AT THE BACK OF THE NORTH WIND                    | x        |                         |
-| THE PORTENT AND OTHER STORIES                    | x        |                         |
-| ST. GEORGE AND ST. MICHAEL                       |          |                         |
-| POETICAL WORKS-Vol.1                             |          |                         |
-| POETICAL WORKS-Vol. 2                            |          |                         |
-| GUILD COURT, A LONDON STORY                      |          |                         |
-| STEPHEN ARCHER AND OTHER TALES                   |          |                         |
-| THE FLIGHT OF THE SHADOW                         |          |                         |
-| RAMPOLLI                                         |          |                         |
-| HOPE OF THE GOSPEL/MIRACLES OF OUR LORD          |          |                         |
-| THE TRAGEDIE OF HAMLET                           |          |                         |
-| A DISH OF ORTS                                   |          |                         |
-| ENGLAND'S ANTIPHON                               |          |                         |
+| Title                                            | Caleb    | Amy  | Fam | Own Johannesen Edition? |
+|--------------------------------------------------+----------+------+-----+-------------------------|
+| ROBERT FALCONER                                  | x        | x    |     | x                       |
+| SIR GIBBIE                                       | x        | x    |     | x                       |
+| MALCOLM                                          | x        | x    |     | x                       |
+| MARQUIS OF LOSSIE                                | x        | x    |     | x                       |
+| ANNALS OF A QUIET NEIGHBOURHOOD                  | x        |      |     | x                       |
+| SEABOARD PARISH                                  | x        |      |     | x                       |
+| THE VICAR'S DAUGHTER                             | x        |      |     | x                       |
+| WHATS MINES MINE                                 | x        |      |     | x                       |
+| ALEC FORBES                                      | x        |      |     | x                       |
+| A ROUGH SHAKING                                  | x        |      | x   | x                       |
+| THERE AND BACK                                   | x        |      |     | x                       |
+| PAUL FABER, SURGEON                              | x        |      |     | x                       |
+| RANALD BANNERMAN'S BOYHOOD                       | x        |      | x   | x                       |
+| ADELA CATHCART                                   | x        |      |     | x                       |
+| UNSPOKEN SERMONS-Series I, II, III in one volume | a little |      |     | x                       |
+| WILFRID CUMBERMEDE                               | x        | soon |     |                         |
+| THOMAS WINGFOLD                                  | x        |      | x   |                         |
+| DONAL GRANT                                      | x        |      | x   |                         |
+| CASTLE WARLOCK                                   | x        |      |     |                         |
+| DAVID ELGINBROD                                  | x        |      |     |                         |
+| MARY MARSTON                                     | x        |      |     |                         |
+| WEIGHED AND WANTING                              | x        |      |     |                         |
+| SALTED WITH FIRE                                 | x        |      |     |                         |
+| THE WISE WOMAN/GUTTA PERCHA WILLIE-a duplex      | x        |      |     |                         |
+| HOME AGAIN/THE ELECT LADY-a duplex               | x        |      |     |                         |
+| HEATHER AND SNOW/FAR ABOVE RUBIES                | x        |      |     |                         |
+| THE PRINCESS AND THE GOBLIN                      | x        |      | x   |                         |
+| THE PRINCESS AND CURDIE                          | x        |      | x   |                         |
+| THE LIGHT PRINCESS AND OTHER FAIRY TALES         | x        |      |     |                         |
+| PHANTASTES                                       | x        |  x   |     |                         |
+| LILITH                                           | x        | x    |     |                         |
+| AT THE BACK OF THE NORTH WIND                    | x        |      |     |                         |
+| THE PORTENT AND OTHER STORIES                    | x        |      |     |                         |
+| ST. GEORGE AND ST. MICHAEL                       |          |      |     |                         |
+| POETICAL WORKS-Vol.1                             |          |      |     |                         |
+| POETICAL WORKS-Vol. 2                            |          |      |     |                         |
+| GUILD COURT, A LONDON STORY                      |          |      |     |                         |
+| STEPHEN ARCHER AND OTHER TALES                   |          |      |     |                         |
+| THE FLIGHT OF THE SHADOW                         |          |      |     |                         |
+| RAMPOLLI                                         |          |      |     |                         |
+| HOPE OF THE GOSPEL/MIRACLES OF OUR LORD          |          |      |     |                         |
+| THE TRAGEDIE OF HAMLET                           |          |      |     |                         |
+| A DISH OF ORTS                                   |          |      |     |                         |
+| ENGLAND'S ANTIPHON                               |          |      |     |                         |
