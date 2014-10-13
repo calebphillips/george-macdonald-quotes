@@ -1,19 +1,19 @@
 | Title                                            | Read? | Own Johannesen Edition? |
 |--------------------------------------------------+-------+-------------------------|
-| WHATS MINES MINE                                 | x     | x                       |
+| ROBERT FALCONER                                  | x     | x                       |
 | SIR GIBBIE                                       | x     | x                       |
+| MALCOLM                                          | x     | x                       |
+| MARQUIS OF LOSSIE                                | x     | x                       |
+| ANNALS OF A QUIET NEIGHBOURHOOD                  | x     | x                       |
+| SEABOARD PARISH                                  | x     | x                       |
+| THE VICAR'S DAUGHTER                             | x     | x                       |
+| WHATS MINES MINE                                 | x     | x                       |
+| ALEC FORBES                                      | x     | x                       |
 | A ROUGH SHAKING                                  | x     | x                       |
 | THERE AND BACK                                   | x     | x                       |
 | PAUL FABER, SURGEON                              | x     | x                       |
 | RANALD BANNERMAN'S BOYHOOD                       | x     | x                       |
 | ADELA CATHCART                                   | x     | x                       |
-| ANNALS OF A QUIET NEIGHBOURHOOD                  | x     | x                       |
-| SEABOARD PARISH                                  | x     | x                       |
-| THE VICAR'S DAUGHTER                             | x     | x                       |
-| MALCOLM                                          | x     | x                       |
-| MARQUIS OF LOSSIE                                | x     | x                       |
-| ALEC FORBES                                      | x     | x                       |
-| ROBERT FALCONER                                  | x     | x                       |
 | UNSPOKEN SERMONS-Series I, II, III in one volume |       | x                       |
 | WILFRID CUMBERMEDE                               | x     |                         |
 | THOMAS WINGFOLD                                  | x     |                         |
