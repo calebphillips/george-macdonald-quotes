@@ -1,17 +1,36 @@
-The Portent and Other Stories
-George MacDonald
+#+BEGIN_QUOTE
+I think the sight of the eyes is sometimes an intrusion between the
+heart and its love."
+#+END_QUOTE
 
-I think the sight of the eyes is sometimes an intrusion between the heart and its love."
-LOCATION: 1058
+#+BEGIN_QUOTE
+while the heart is young, man may laugh old Time in the face, and dare
+him to do his worst.
+#+END_QUOTE
 
-while the heart is young, man may laugh old Time in the face, and dare him to do his worst.
-LOCATION: 1492
+#+BEGIN_QUOTE
+And it was in virtue of this, that Wolkenlicht loved Lilith yet more
+after he discovered what a grave of misery her unbelief was digging
+for her within her own soul.
+#+END_QUOTE
 
-And it was in virtue of this, that Wolkenlicht loved Lilith yet more after he discovered what a grave of misery her unbelief was digging for her within her own soul.
-LOCATION: 1652
+#+BEGIN_QUOTE
+but that she had faint memories of warm soft times on her mother's
+bosom, and of refuge in her mother's arms from the attacks of geese,
+and the pursuit of pigs. Therefore, in after-times, when she looked
+forward to heaven, it was as much a reverting to the old heavenly
+times of childhood and mother's love, as an anticipation of something
+yet to be revealed. Indeed, without some such memory, how should we
+ever picture to ourselves a perfect rest?
+#+END_QUOTE
 
-but that she had faint memories of warm soft times on her mother's bosom, and of refuge in her mother's arms from the attacks of geese, and the pursuit of pigs. Therefore, in after-times, when she looked forward to heaven, it was as much a reverting to the old heavenly times of childhood and mother's love, as an anticipation of something yet to be revealed. Indeed, without some such memory, how should we ever picture to ourselves a perfect rest?
-LOCATION: 2246
-
-But seeds will grow ages after they have fallen into the earth; and, indeed, with many kinds, and within some limits, the older the seed before it germinates, the more plentiful the fruit. And may it not be believed of many human beings, that, the Great Husbandman having sown them like seeds in the soil of human affairs, there they lie buried a life long; and only after the upturning of the soil by death reach a position in which the awakening of their aspiration and the consequent growth become possible. Surely He has made nothing in vain.
-LOCATION: 2401
+#+BEGIN_QUOTE
+But seeds will grow ages after they have fallen into the earth; and,
+indeed, with many kinds, and within some limits, the older the seed
+before it germinates, the more plentiful the fruit. And may it not be
+believed of many human beings, that, the Great Husbandman having sown
+them like seeds in the soil of human affairs, there they lie buried a
+life long; and only after the upturning of the soil by death reach a
+position in which the awakening of their aspiration and the consequent
+growth become possible. Surely He has made nothing in vain.
+#+END_QUOTE
