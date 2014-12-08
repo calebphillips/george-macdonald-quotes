@@ -22,11 +22,13 @@ LOCATION: 180910
 For God has so made us that everyone who thinks at all thinks in a way that must be more or less fresh to everyone else who thinks, if he only have the gift of setting forth his thoughts so that we can see what they are.
 LOCATION: 180943
 
-You see it is not enough to satisfy God's goodness that he should give us all things richly to enjoy, but he must make us able to enjoy them as richly as he gives them.
-LOCATION: 180973
-
-He has to consider not only the gift, but the receiver of the gift. He has to make us able to take the gift and make it our own, as well as to give us the gift. In fact, it is not real giving, with the full, that is, the divine, meaning of giving, without it.
-LOCATION: 180974
+You see it is not enough to satisfy God's goodness that he should give
+us all things richly to enjoy, *but he must make us able to enjoy them
+as richly as he gives them*. He has to consider not only the gift, but
+the receiver of the gift. He has to make us able to take the gift and
+make it our own, as well as to give us the gift. In fact, it is not
+real giving, with the full, that is, the divine, meaning of giving,
+without it.
 
 The whole question is how much we understand, and understanding, obey him. And I do not think we should be any nearer that if he came amongst us bodily again. If we should, he would come. I believe we should be further off it."
 LOCATION: 181061
@@ -116,8 +118,6 @@ LOCATION: 183396
 This should teach us to distrust ourselves, and yet have great hope for ourselves, and endless patience with other people. But to return to the story and what the story itself teaches us.
 LOCATION: 183548
 
-"But the reason why you do not trust him more is that you obey him so little. If you would only, ask what God would have you to do, you would soon find your confidence growing.
-LOCATION: 183572
 
 it was a thousand times better that he should deny him, and thus know what a poor weak thing that heart of his was, trust it no more, and give it up to the Master to make it strong, and pure, and grand.
 LOCATION: 183745
@@ -140,9 +140,6 @@ LOCATION: 184554
 When the mothers are well taught the generations will grow in knowledge at a fourfold rate.
 LOCATION: 184555
 
-You couldn't like a man much, could you, who did not believe in anything greater than himself, anything marvellous, grand, beyond our understanding--who thought that he had come out of the dirt and was going back to the dirt?" "I could, papa, if he tried to do his duty notwithstanding--for I'm sure I couldn't. I should cry myself to death." "You are right, my child. I should honour him too. But I should be very sorry for him. For he would be so disappointed in himself."
-LOCATION: 184597
-
 I fancy that the single thread by which God sometimes keeps hold of a man is such an impression of his childhood as that of which you have been speaking."
 LOCATION: 184855
 
@@ -152,8 +149,6 @@ LOCATION: 185217
 Nor does the religion lie in saying, _if the Lord will_, every time anything is to be done. It is a most dangerous thing to use sacred words often.
 LOCATION: 185907
 
-Did it ever strike you that the whole history of the Christian life is a series of such resurrections? Every time a man bethinks himself that he is not walking in the light, that he has been forgetting himself, and must repent, that he has been asleep and must awake, that he has been letting his garments trail, and must gird up the loins of his mind--every time this takes place, there is a resurrection in the world.
-LOCATION: 185981
 
 Yes, Joe; and every time that a man finds that his heart is troubled, that he is not rejoicing in God, a resurrection must follow--a resurrection out of the night of troubled thoughts into the gladness of the truth.
 LOCATION: 185984
@@ -173,8 +168,6 @@ LOCATION: 186510
 As the morning rises out of the night, so rise thou from the darkness of ignorance to do the will of God in the daylight;
 LOCATION: 186511
 
-We are so easily affected by the smallest things that are of the unpleasant kind, that we ought to train ourselves to the influence of those that are of an opposite nature. The unpleasant ones are like the thorns which make themselves felt as we scramble--for we often do scramble in a very undignified manner--through the thickets of life; and, feeling the thorns, we grumble, and are blind to all but the thorns. The flowers, and the lovely leaves, and the red berries, and the clusters of filberts, and the birds'-nests do not force themselves upon our attention as the thorns do, and the thorns make us forget to look for them.
-LOCATION: 186731
 
 in order that they might become such, with their whole nature infinitely enlarged, as to turn from sin with a perfect repugnance of the will, he should allow them to fall?
 LOCATION: 186913
@@ -182,8 +175,6 @@ LOCATION: 186913
 How could I be content to guard my children so that they should never have temptation, knowing that in all probability they would fail if at any moment it should cross their path? Would the deepest communion of father and child ever be possible between us? Evil would ever seem to be in the child, so long as it was possible it should be there developed.
 LOCATION: 186917
 
-Recognising a discord when they touched the notes of nature and society, the hermits forsook the instrument altogether, and contented themselves with a partial symphony--lofty, narrow, and weak.
-LOCATION: 187113
 
 Their example, more or less, has been followed by almost all Christians. Exclusion is so much the easier way of getting harmony in the orchestra than study, insight, and interpretation, that most have adopted it.
 LOCATION: 187114
@@ -206,8 +197,6 @@ LOCATION: 188042
 we have no right to modify God's facts for fear of what may be to come.
 LOCATION: 188607
 
-"You are not made yet, as I am always telling you; and God has ordained that you shall have a hand in your own making. You have to consent, to desire that what you know for a fault shall be set right by his loving will and spirit."
-LOCATION: 188628
 
 I do not like coffins. They seem to me relics of barbarism. If I had my way, I would have the old thing decently wound in a fair linen cloth, and so laid in the bosom of the earth, whence it was taken.
 LOCATION: 188718
@@ -230,8 +219,6 @@ LOCATION: 188985
 When they understood him better, then they would understand what he said better. And to understand him better they must be more like him; and to make them more like him he must go away and give them his spirit--awful mystery which no man but himself can understand.
 LOCATION: 189017
 
-When I find anyone hard upon doubters, I always doubt the quality of his faith.
-LOCATION: 189025
 
 I have known people whose power of believing chiefly consisted in their incapacity for seeing difficulties.
 LOCATION: 189027
@@ -250,13 +237,6 @@ LOCATION: 189342
 
 
 
-#+BEGIN_QUOTE
-You see it is not enough to satisfy God's goodness that he should give us all things richly to enjoy,
-*but he must make us able to enjoy them as richly as he gives them*. He has to consider not only the gift,
-but the receiver of the gift. He has to make us able to take the gift and make it our own, as well
-as to give us the gift. In fact, it is not real giving, with the full, that is,
-the divine, meaning of giving, without it.
-#+END_QUOTE
 
 
 #+BEGIN_QUOTE
