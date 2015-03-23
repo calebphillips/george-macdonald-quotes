@@ -16,7 +16,7 @@
 | ADELA CATHCART                                   | x     |     | x                       |
 | UNSPOKEN SERMONS-Series I, II, III in one volume |       |     | x                       |
 |--------------------------------------------------+-------+-----+-------------------------|
-| WILFRID CUMBERMEDE                               | x     |     |                         |
+| WILFRID CUMBERMEDE                               | x     |     | x                       |
 | THOMAS WINGFOLD                                  | x     |     |                         |
 | DONAL GRANT                                      | x     |     |                         |
 | CASTLE WARLOCK                                   | x     |     |                         |
@@ -39,7 +39,7 @@
 | POETICAL WORKS-Vol.1                             |       |     |                         |
 | POETICAL WORKS-Vol. 2                            |       |     |                         |
 | GUILD COURT, A LONDON STORY                      |       |     |                         |
-| STEPHEN ARCHER AND OTHER TALES                   |       |     |                         |
+| STEPHEN ARCHER AND OTHER TALES                   |       |     | x                       |
 | THE FLIGHT OF THE SHADOW                         |       |     |                         |
 | RAMPOLLI                                         |       |     |                         |
 | HOPE OF THE GOSPEL/MIRACLES OF OUR LORD          |       |     |                         |
