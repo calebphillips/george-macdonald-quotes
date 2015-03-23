@@ -19,12 +19,12 @@
 | WILFRID CUMBERMEDE                               | x     |     | x                       |
 | THOMAS WINGFOLD                                  | x     |     | x                       |
 | STEPHEN ARCHER AND OTHER TALES                   |       |     | x                       |
-| DONAL GRANT                                      | x     |     |                         |
-| CASTLE WARLOCK                                   | x     |     |                         |
-| DAVID ELGINBROD                                  | x     |     |                         |
-| MARY MARSTON                                     | x     |     |                         |
 | WEIGHED AND WANTING                              | x     |     |                         |
 | SALTED WITH FIRE                                 | x     |     |                         |
+| DONAL GRANT                                      | x     |     |                         |
+| DAVID ELGINBROD                                  | x     |     |                         |
+| MARY MARSTON                                     | x     |     |                         |
+| CASTLE WARLOCK                                   | x     |     |                         |
 | THE WISE WOMAN/GUTTA PERCHA WILLIE-a duplex      | x     |     |                         |
 | HOME AGAIN/THE ELECT LADY-a duplex               | x     |     |                         |
 | HEATHER AND SNOW/FAR ABOVE RUBIES                | x     |     |                         |
