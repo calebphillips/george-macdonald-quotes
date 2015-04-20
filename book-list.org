@@ -26,7 +26,7 @@
 | MARY MARSTON                                     | x     |     |                         |
 | CASTLE WARLOCK                                   | x     |     |                         |
 | THE WISE WOMAN/GUTTA PERCHA WILLIE-a duplex      | x     |     |                         |
-| HOME AGAIN/THE ELECT LADY-a duplex               | x     |     |                         |
+| HOME AGAIN/THE ELECT LADY-a duplex               | x     |     |   x                      |
 | HEATHER AND SNOW/FAR ABOVE RUBIES                | x     |     |                         |
 | THE PRINCESS AND THE GOBLIN                      | x     | x   |                         |
 | THE PRINCESS AND CURDIE                          | x     | x   |                         |
