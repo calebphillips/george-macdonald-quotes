@@ -22,12 +22,12 @@
 | WEIGHED AND WANTING                              | x     |     |                         |
 | SALTED WITH FIRE                                 | x     |     | x                       |
 | DONAL GRANT                                      | x     |     |                         |
-| DAVID ELGINBROD                                  | x     |     |                         |
-| MARY MARSTON                                     | x     |     |                         |
+| DAVID ELGINBROD                                  | x     |     | x                       |
+| MARY MARSTON                                     | x     |     | x                       |
 | CASTLE WARLOCK                                   | x     |     |                         |
 | THE WISE WOMAN/GUTTA PERCHA WILLIE-a duplex      | x     |     |                         |
 | HOME AGAIN/THE ELECT LADY-a duplex               | x     |     | x                       |
-| HEATHER AND SNOW/FAR ABOVE RUBIES                | x     |     |                         |
+| HEATHER AND SNOW/FAR ABOVE RUBIES                | x     |     | x                       |
 | THE PRINCESS AND THE GOBLIN                      | x     | x   |                         |
 | THE PRINCESS AND CURDIE                          | x     | x   |                         |
 | THE LIGHT PRINCESS AND OTHER FAIRY TALES         | x     |     |                         |
@@ -36,12 +36,11 @@
 | AT THE BACK OF THE NORTH WIND                    | x     |     |                         |
 | THE PORTENT AND OTHER STORIES                    | x     |     |                         |
 |--------------------------------------------------+-------+-----+-------------------------|
-| ST. GEORGE AND ST. MICHAEL                       |   x    |     |                         |
-| THE FLIGHT OF THE SHADOW                         |    x   |     |                         |
+| ST. GEORGE AND ST. MICHAEL                       | x     |     | x                       |
+| GUILD COURT, A LONDON STORY                      | x     |     | x
+| THE FLIGHT OF THE SHADOW                         | x     |     |                         |
 | POETICAL WORKS-Vol.1                             |       |     |                         |
 | POETICAL WORKS-Vol. 2                            |       |     |                         |
-| GUILD COURT, A LONDON STORY                      |       |     |                         |
-
 | RAMPOLLI                                         |       |     |                         |
 | HOPE OF THE GOSPEL/MIRACLES OF OUR LORD          |       |     |                         |
 | THE TRAGEDIE OF HAMLET                           |       |     |                         |
