@@ -27,7 +27,7 @@
 | CASTLE WARLOCK                                   | x    |                         |
 | WEIGHED AND WANTING                              | x    |                         |
 | DONAL GRANT                                      | x    |                         |
-| THE WISE WOMAN/GUTTA PERCHA WILLIE-a duplex      | x    |                         |
+| THE WISE WOMAN/GUTTA PERCHA WILLIE-a duplex      | x    | x                       |
 | THE PRINCESS AND THE GOBLIN                      | x    |                         |
 | THE PRINCESS AND CURDIE                          | x    |                         |
 | THE LIGHT PRINCESS AND OTHER FAIRY TALES         | x    |                         |
