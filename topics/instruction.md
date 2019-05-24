@@ -37,7 +37,7 @@
   think how much worse a thing it is not to heed Him. If God be not
   worth minding, what great ruin can it be to imagine His
   non-existence?
-* The confession of not being, is the sole foundation for becoming
+* The confessionL of not being, is the sole foundation for becoming
 * Everything, the commonest, well done, is something for the progress
   of the world; that is, lessens, if by the smallest hair's-breadth,
   the distance between it and God.
